@@ -1,1 +1,1 @@
-# EXP.NO-3
+# EXP.NO-3 : Histogram of an Images

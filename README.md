@@ -127,7 +127,7 @@ plt.subplot(122); plt.hist(img_eq.ravel(),256,range = [0, 256]); plt.title('Hist
 <img width="1387" height="428" alt="image" src="https://github.com/user-attachments/assets/95848167-c099-4c42-861a-50f1d1164031" />
 
 # RESULT:
-
+Thus, histogram equalization is successfully performed on both grayscale and color images using OpenCV. The contrast and brightness of the images are significantly improved, enhancing visual quality and feature visibility.
 
 
 

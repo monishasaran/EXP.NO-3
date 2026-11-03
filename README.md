@@ -115,7 +115,8 @@ plt.subplot(122); plt.hist(img_eq.ravel(),256,range = [0, 256]); plt.title('Hist
 ```
 
 
-# OutputHistogram of an Images
+# Output:
+
 <img width="432" height="557" alt="image" src="https://github.com/user-attachments/assets/0e8a2b35-ec39-45bb-b484-594e0c9d1196" />  
 <img width="702" height="547" alt="image" src="https://github.com/user-attachments/assets/ad591e7e-886c-4e28-ae58-69836de6f5be" />
 <img width="708" height="543" alt="image" src="https://github.com/user-attachments/assets/75199721-fb8e-400b-9f6a-b1fa07bb489e" />
